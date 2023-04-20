@@ -1,22 +1,39 @@
 class MyHashSet {
 public:
-    vector<long long int> ans; 
+    vector<list<int>> ans; 
     int n;
     MyHashSet() {
-        n=1e6;
-        ans.resize(n+2);
+        n=100;
+        ans.resize(n);
+    } 
+    
+    int hash(int key){
+        return key%n;
+    }
+    
+    list<int> :: iterator search(int key){
+        int i=hash(key); 
+        return find(ans[i].begin(),ans[i].end(),key);
     }
     
     void add(int key) {
-        ans[key]=1;
+        if((contains(key))) return; 
+        int i=hash(key); 
+        ans[i].push_back(key);
     }
     
     void remove(int key) {
-        ans[key]=0;
+        if(!(contains(key))) return; 
+        int i=hash(key); 
+        ans[i].erase(search(key));
     }
     
     bool contains(int key) {
-        return ans[key];
+        int i=hash(key); 
+        if(search(key)!=ans[i].end())
+            return true; 
+        else
+            return false;
     }
 };
 
