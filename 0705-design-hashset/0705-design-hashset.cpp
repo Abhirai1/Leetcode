@@ -3,7 +3,7 @@ public:
     vector<list<int>> ans; 
     int n;
     MyHashSet() {
-        n=100;
+        n=1000;
         ans.resize(n);
     } 
     
