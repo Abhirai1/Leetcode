@@ -21,7 +21,7 @@ public:
         }
         if(k)
             return NULL;
-        ListNode *ptr1=head,*ptr2=slow; 
+        ListNode *ptr1=head,*ptr2=fast; 
         
         while(ptr1!=ptr2){
             ptr1=ptr1->next; 
