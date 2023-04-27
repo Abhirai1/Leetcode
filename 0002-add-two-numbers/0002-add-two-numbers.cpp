@@ -36,7 +36,6 @@ public:
         }
          while(l2!=NULL){
              cout<<carry<<endl;
-
             int temp=(l2->val+carry)%10; 
             carry=(l2->val+carry)/10;
             ListNode *k=new ListNode(temp);
