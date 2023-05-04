@@ -25,11 +25,11 @@ public:
             return ans;
         
         stack<TreeNode*> st1; 
-        stack<TreeNode*> st2;
+        stack<int> st2;
         st1.push(root); 
         while(st1.size()!=0){
             TreeNode *temp=st1.top();
-            st2.push(temp);
+            st2.push(temp->val);
             st1.pop(); 
             if(temp->left!=NULL)
                 st1.push(temp->left);
@@ -38,7 +38,7 @@ public:
         } 
         
         while(!st2.empty()){
-            ans.push_back(st2.top()->val); 
+            ans.push_back(st2.top()); 
             st2.pop();
         } 
         return ans;
