@@ -2,12 +2,12 @@ class Solution {
 public:
     void solve(int open,int close,string op,vector<string> &ans){
 
-        if(open==0 && close==0){
+        if(!open && !close){
             ans.push_back(op);
             return;
         }
 
-        if(open != 0 ){
+        if(open){
             string op1 = op; 
             op1.push_back('('); 
             solve(open-1,close,op1,ans);
