@@ -23,8 +23,12 @@ public:
         while(!(q.empty())){
             
             int n=q.size(); 
-            vector<int> level; 
-                        
+            vector<int> level(n); 
+            int k; 
+            if(cnt&1)
+                k=n-1; 
+            else
+                k=0;
             for(int i=0;i<n;i++){
                 TreeNode *temp=q.front(); 
                 q.pop(); 
@@ -32,10 +36,14 @@ public:
                    q.push(temp->left);
                 if(temp->right!=NULL)
                     q.push(temp->right);
-                level.push_back(temp->val);
-            }
-            if(cnt&1){
-                reverse(level.begin(),level.end());
+                // level.push_back(temp->val);
+                
+                if(cnt&1){
+                    level[k--]=temp->val;
+                }
+                else{
+                    level[k++]=temp->val;
+                }
             }
             ans.push_back(level);
             cnt++;
