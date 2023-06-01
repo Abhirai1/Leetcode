@@ -40,8 +40,8 @@ public:
             vector<int> p2; 
             vector<int> q2; 
             
-            if(p==NULL && q==NULL)
-                return true; 
+            // if(p==NULL && q==NULL)
+            //     return true; 
             
             inorder(p,p1);
             inorder(q,q1);
