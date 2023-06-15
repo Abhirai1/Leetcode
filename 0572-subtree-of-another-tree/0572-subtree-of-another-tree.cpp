@@ -33,11 +33,12 @@ public:
     
     void inorder(TreeNode* root, TreeNode* subRoot){
         if(root!=NULL){
-            inorder(root->left,subRoot);
-            
-            bool x=match(root,subRoot);
+             bool x=match(root,subRoot);
             if(x)
                 ans=x;
+            inorder(root->left,subRoot);
+            
+           
             
             inorder(root->right,subRoot);
         }
