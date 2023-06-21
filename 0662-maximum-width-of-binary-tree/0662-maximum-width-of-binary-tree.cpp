@@ -9,39 +9,49 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-
-#define ll long long int
 class Solution {
 public:
     
-        int widthOfBinaryTree(TreeNode* root) {
-        queue<pair<TreeNode*,ll>> q;
+    int findHorizontalLength(TreeNode* root, vector<vector<long long int>> &ans){
+       
+        long long int  p=0;
+        if(root==NULL)
+            return p; 
+        
+        queue<pair<TreeNode*,long long int>> q;
+        
         q.push({root,0});
-        int n;
-        pair<TreeNode*,ll> p;
-        ll ans = 1;
+        
         while(!q.empty()){
-            n = q.size();
-            ll a=0,b,c=q.front().second;
-            for(int i = 0; i < n; i++){
-                p = q.front();
-                q.pop();
-                if(p.first->left){
-                    q.push({p.first->left,(p.second-c)*1LL*2});
-                }
-                if(p.first->right){
-                    q.push({p.first->right,(p.second-c)*1LL*2+1});
-                }
-                
-                if(i==0){
-                    a = (p.second);
-                }
-                if(i==n-1){
-                    b = (p.second);
-                }
+            int n=q.size(); 
+            long long int t = q.front().second;
+            vector<long long int> level; 
+            for(int i=0;i<n;i++){
+                TreeNode *temp=q.front().first;
+               long long int k = q.front().second-t;
+                q.pop(); 
+                if(temp->left!=NULL)
+                   q.push({temp->left,2*k});
+                if(temp->right!=NULL)
+                    q.push({temp->right,(2*k+1)});
+                level.push_back(k);
             }
-            ans = max(ans,b-a+1);
+          long long int  s=level.size(); 
+           long long int temp = (level[s-1]-level[0] + 1);
+            if(temp>=p){
+                p=temp;
+            }
         }
-        return ans;
+        return p;
+    }
+
+    
+    int widthOfBinaryTree(TreeNode* root) {
+        
+        vector<vector<long long int>> ans; 
+        
+       long long int t= findHorizontalLength(root,ans);
+        return t;
+       
     }
 };
