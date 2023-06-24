@@ -11,21 +11,45 @@
  */
 class Solution {
 public:
-    int cnt=0;
-    void inorder(TreeNode* root){
+    
+    int findLeftHeight(TreeNode *root){
+        int height=0; 
         
-        if(root!=NULL){
-            cnt++;
-            inorder(root->left);
-            inorder(root->right);
+        while(root){
+            height++; 
+            root=root->left;
         }
         
         
+        return height;
     }
-    int countNodes(TreeNode* root) {
+    int findRightHeight(TreeNode *root){
+        int height=0; 
         
-        inorder(root);
-        return cnt;
+        while(root){
+            height++; 
+            root=root->right;
+        }
+        
+        return height;
+    }
+    
+    
+    
+    int countNodes(TreeNode* root){
+        
+        if(root==NULL)
+            return 0; 
+        
+        
+        int left=findLeftHeight(root);
+        int right=findRightHeight(root); 
+        
+        if(left==right)
+            return (pow(2,left)-1); 
+        
+        return 1+(countNodes(root->left))+(countNodes(root->right));
+        
         
     }
 };
