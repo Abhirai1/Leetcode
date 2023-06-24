@@ -23,12 +23,6 @@ public:
         if(is>ie)
             return NULL; 
         
-        // if(pass==0){
-        //     pass=1;
-        //     cout<<"in function"<<endl;
-        //         for(auto &it:postorder)
-        //     cout<<it<<" ";
-        // }
         
         TreeNode *root= new TreeNode(postorder[preIndex]); 
         preIndex++;
@@ -41,7 +35,7 @@ public:
                 break;
             }
         }
-         root->right=makeTree(postorder,inorder,inIndex+1,ie);
+        root->right=makeTree(postorder,inorder,inIndex+1,ie);
         root->left=makeTree(postorder,inorder,is,inIndex-1);
       
         
