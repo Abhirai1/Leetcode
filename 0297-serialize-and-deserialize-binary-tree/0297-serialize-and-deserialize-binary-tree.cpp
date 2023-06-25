@@ -75,7 +75,7 @@ public:
             else{
                 TreeNode *leftNode= new TreeNode (stoi(str));
                 temp->left = leftNode; 
-                q.push(leftNode);
+                q.push(temp->left );
             }
             
             
