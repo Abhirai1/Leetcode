@@ -73,8 +73,7 @@ public:
                 temp->left=NULL;
             }
             else{
-                TreeNode *leftNode= new TreeNode (stoi(str));
-                temp->left = leftNode; 
+                temp->left= new TreeNode (stoi(str));
                 q.push(temp->left );
             }
             
