@@ -8,7 +8,9 @@ public:
             nums.push_back(nums[i]);
         }
         
-        return nums;
+        vector<int> ans=nums;
+        
+        return ans;
         
     }
 };
