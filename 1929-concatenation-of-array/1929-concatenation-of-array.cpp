@@ -8,8 +8,8 @@ public:
     }
     vector<int> getConcatenation(vector<int>& nums) {
         
-        vector<int> ans;
-        copy(nums,ans);
+        vector<int> ans=nums;
+        // copy(nums,ans);
         copy(nums,ans);
         return ans;
         
