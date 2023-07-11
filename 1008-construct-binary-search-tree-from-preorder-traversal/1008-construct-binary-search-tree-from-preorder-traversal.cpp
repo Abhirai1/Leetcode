@@ -12,73 +12,44 @@
 class Solution {
 public:
     
-        
-    int preIndex=0;
     
-    TreeNode* makeTree(vector<int> &postorder,vector<int> &inorder,int is,int ie){  
     
-        if(is>ie)
-            return NULL; 
+    
+    TreeNode *MakeTree(vector<int> &preorder){
         
-        TreeNode *root= new TreeNode(postorder[preIndex]); 
-        preIndex++;
+//         base case -> likhenge
         
-        int inIndex; 
+        if(preorder.size()==0){
+            return NULL;
+        }
         
-        for(int i=is;i<ie;i++){
-            if(inorder[i]==root->val){
-                inIndex=i; 
-                break;
+        TreeNode *temp=new TreeNode(preorder[0]);
+        int n=preorder.size(); 
+        vector<int> left;
+        vector<int> right;
+        for(int i=1;i<n;i++){
+            if(preorder[0]>preorder[i]){
+                cout<<preorder[i]<<" "<<endl;
+                left.push_back(preorder[i]);
+            }
+            else{
+                cout<<"right"<<endl;
+                 right.push_back(preorder[i]);
             }
         }
         
-        root->left=makeTree(postorder,inorder,is,inIndex-1);
-        root->right=makeTree(postorder,inorder,inIndex+1,ie);
         
-        return root;
         
+        temp->left=MakeTree(left);
+        temp->right=MakeTree(right);
+        
+        return temp;
         
     }
     
-    
-//     TreeNode *MakeTree(preorder){
-        
-// //         base case -> likhenge
-        
-//         if(preorder.size()==0){
-//             return NULL;
-//         }
-        
-        
-//         int n=preorder.size(); 
-//         vector<int> left;
-//         vector<int> right;
-//         for(int i=1;i<n;i++){
-//             if(preorder[0]<preorder[i]){
-//                 left.push_back(preorder[i]);
-//             }
-//             else{
-//                  right.push_back(preorder[i]);
-//             }
-//         }
-        
-//         TreeNode *temp=new Node(preorder[0]);
-//          temp->left=MakeTree(left);
-//         temp->right=MakeTree(right);
-        
-//     }
-    
     TreeNode* bstFromPreorder(vector<int>& preorder) {
         
-        // if(root==NULL)
-        //     return root; 
-        
-        
-        vector<int> inorder=preorder;
-        sort(inorder.begin(),inorder.end());
-        
-        // MakeTree(preorder);
-         TreeNode *ans= makeTree(preorder,inorder,0,inorder.size()-1);
+        TreeNode *ans=MakeTree(preorder);
         return ans;
         
         
