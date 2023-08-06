@@ -8,38 +8,78 @@ class Solution
 	public:
 	
 	
-	void dfs(int node,vector<int> adj[],stack<int> &st,vector<int>  &vis){
+// 	void dfs(int node,vector<int> adj[],stack<int> &st,vector<int>  &vis){
 	    
-	    vis[node]=1; 
+// 	    vis[node]=1; 
 	  
-	    for(auto &it:adj[node]){
-	        if(vis[it]==0){
-	            dfs(it,adj,st,vis);
-	        }
-	    }
-	     st.push(node);
+// 	    for(auto &it:adj[node]){
+// 	        if(vis[it]==0){
+// 	            dfs(it,adj,st,vis);
+// 	        }
+// 	    }
+// 	     st.push(node);
 	    
-	}
+// 	}
 	 
 	vector<int> topoSort(int V, vector<int> adj[]) 
-	{
-	    vector<int> vis(V,0); 
-	    stack<int> st; 
-	    vector<int> ans;
+	{   
 	    
+	   // using bfs 
+	   
+	   queue<int>q; 
+	   vector<int> ind(V,0); 
+	   
+	   for(int i=0;i<V;i++){
+	       for(auto &it:adj[i]){
+	           ind[it]++;
+	       }
+	   }
+	    
+	    vector<int> ans; 
 	    for(int i=0;i<V;i++){
-	        if(vis[i]==0){
-	            dfs(i,adj,st,vis);
+	        if(ind[i]==0){
+	            q.push(i);
 	        }
 	    }
 	    
 	    
-	    while(!st.empty()){
-	        ans.push_back(st.top()); 
-	        st.pop();
+	    while(!q.empty()){
+	        
+	        int node=q.front(); 
+	        q.pop();
+	        ans.push_back(node);
+	        
+	        for(auto &it:adj[node]){
+	            ind[it]--; 
+	            if(ind[it]==0){
+	                q.push(it); 
+	            }
+	        }
 	    }
 	    
 	    return ans;
+	    
+	    
+	    
+	    
+	    
+	   // vector<int> vis(V,0); 
+	   // stack<int> st; 
+	   // vector<int> ans;
+	    
+	   // for(int i=0;i<V;i++){
+	   //     if(vis[i]==0){
+	   //         dfs(i,adj,st,vis);
+	   //     }
+	   // }
+	    
+	    
+	   // while(!st.empty()){
+	   //     ans.push_back(st.top()); 
+	   //     st.pop();
+	   // }
+	    
+	   // return ans;
 	}
 };
 
