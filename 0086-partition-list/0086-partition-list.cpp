@@ -19,6 +19,7 @@ public:
             }
             ptr=ptr->next;
         }
+        
         ptr=head;
         while(ptr!=NULL){
             if(ptr->val>=x){
@@ -27,7 +28,7 @@ public:
             ptr=ptr->next;
         }
 
-          ListNode* nodeHead = new ListNode(-1); 
+        ListNode* nodeHead = new ListNode(-1); 
         ListNode* pt=nodeHead;
 
         for(int i=0;i<temp.size();i++){
