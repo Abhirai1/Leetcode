@@ -50,9 +50,9 @@ int n=grid.size();
 	              q.push({{i,j},0});
 	              vis[i][j]=1;
 	          }
-	          else{
-	              vis[i][j]=0;
-	          }
+	        //   else{
+	        //       vis[i][j]=0;
+	        //   }
 	      }
 	  }
 	  
