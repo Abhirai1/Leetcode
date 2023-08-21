@@ -28,11 +28,12 @@ public:
 
         for(auto &it:div){
             unordered_map<string,int> ump;
-            for(int i=0;i<=n-it;i=i+it){
-                string t=s.substr(i,it); 
-                ump[t]++;
+            string t="";
+            for(int i=0;i<n/it;i++){
+                t+=s.substr(0,it); 
+               
             }
-            if(ump.size()==1)
+            if(t==s)
             return true;
         }
 
