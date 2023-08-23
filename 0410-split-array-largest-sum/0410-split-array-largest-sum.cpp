@@ -20,11 +20,13 @@ bool isPossible(vector<int> arr ,int n, int m,int mid ){
 } 
 long long oprSection(int n, int m, vector<int> arr) 
 {
-    int s=0; 
     int sum=0; 
+    int mini=INT_MAX;
     for(int i=0;i<n;i++){
+        mini=min(mini,arr[i]);
         sum+=arr[i];
     } 
+    int s=mini; 
     int e= sum;
     int mid=s+(e-s)/2;
     int ans=-1; 
