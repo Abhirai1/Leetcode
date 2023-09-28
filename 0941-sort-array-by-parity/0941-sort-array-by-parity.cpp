@@ -5,26 +5,10 @@ public:
             return nums;
         }
 
-        int odd=-1; 
-        int even=-1;
-
         int n=nums.size();
-        for(int i=0;i<n;i++){
-            if((nums[i]%2) !=0){
-                odd=i; 
-                break;
-            }
-        }
 
-        for(int i=n-1;i>=0;i--){
-            if((nums[i]%2)==0){
-                even=i; 
-                break;
-            }
-        }
-
-        if(odd==-1 || even==-1)
-        return nums;
+        int odd=0; 
+        int even=n-1;
 
         cout<<"odd -> "<<odd<<" even -> "<<even<<endl;
 
