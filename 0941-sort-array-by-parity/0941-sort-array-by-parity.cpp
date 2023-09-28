@@ -18,7 +18,6 @@ public:
 
         for(int i=n-1;i>=0;i--){
             if((nums[i]%2)==0){
-                // cout<<"hii"<<endl;
                 even=i; 
                 break;
             }
