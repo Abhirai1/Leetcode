@@ -19,8 +19,8 @@ public:
         memset(t,-1,sizeof(t));
         int i=0;
         solve(nums,i);
-        for(auto it:t)
-        cout<<it<<" ";        
+        // for(auto it:t)
+        // cout<<it<<" ";        
         return t[0];
     }
 };
