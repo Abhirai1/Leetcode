@@ -18,7 +18,9 @@ public:
     int rob(vector<int>& nums) {
         memset(t,-1,sizeof(t));
         int i=0;
-        
-        return solve(nums,i);
+        solve(nums,i);
+        for(auto it:t)
+        cout<<it<<" ";        
+        return t[0];
     }
 };
