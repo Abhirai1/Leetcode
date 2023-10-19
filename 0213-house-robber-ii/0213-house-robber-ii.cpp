@@ -10,10 +10,6 @@ public:
             int notpick=t[i-1];
             t[i]=max(pick,notpick);
         }
-        for(int i=0;i<=n;i++){
-            cout<<t[i]<<" ";
-        }
-        cout<<"second "<<endl;
         return t[n];
     }
     int rob(vector<int>& nums) {
