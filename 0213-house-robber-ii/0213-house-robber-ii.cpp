@@ -1,32 +1,37 @@
 class Solution {
 public:
-int t[1001];
- int solve(vector<int> &nums,int pos){
-        if(pos>=nums.size()){
-            return 0;
+    int t[101];
+    int bottomUp(vector<int> ans,int s,int n){
+        memset(t,-1,sizeof(t));
+        t[0]=0;
+        t[1]=ans[s];
+        for(int i=2;i<=n;i++){
+            int pick=ans[i-1]+t[i-2];
+            int notpick=t[i-1];
+            t[i]=max(pick,notpick);
         }
-
-        if(t[pos]!=-1) 
-        return t[pos];
-
-        int in =nums[pos]+solve(nums,pos+2);
-        int ex =solve(nums,pos+1);
-         
-        return t[pos]=max(ex,in);
+        for(int i=0;i<=n;i++){
+            cout<<t[i]<<" ";
+        }
+        cout<<"second "<<endl;
+        return t[n];
     }
     int rob(vector<int>& nums) {
+        
         if(nums.size()==1){
             return nums[0];
         }
-        memset(t,-1,sizeof(t));
-        int i=1;
-
-        int l=solve(nums,i);
-        memset(t,-1,sizeof(t));
+        if(nums.size()==2){
+            return max(nums[0],nums[1]);
+        }
+        vector<int> temp=nums;
+        int n=nums.size(); 
+        temp.erase(temp.begin());
+        int notpick=bottomUp(temp,0,n-1);
         nums.pop_back();
-        i=0;
-        int r=solve(nums,i);
-        
-        return max(l,r);
+        int pick=bottomUp(nums,0,n-1);  
+
+        return max(pick,notpick);
+
     }
 };
