@@ -21,8 +21,8 @@ public:
 
     long long maxAlternatingSum(vector<int>& nums) {
         int i=0;
-        int cnt=0;
+        // int cnt=0;
         memset(t,-1,sizeof(t));
-        return solve(nums,i,cnt);
+        return solve(nums,i,0);
     }
 };
