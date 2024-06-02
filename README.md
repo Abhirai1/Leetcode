@@ -10,3 +10,11 @@ Every problem has a creative solution
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Abhirai1/Leetcode/tree/master/0344-reverse-string) |
+# Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Abhirai1/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+# Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Abhirai1/Leetcode/tree/master/0021-merge-two-sorted-lists) |
