@@ -94,7 +94,8 @@ Agr doubt hai to feel free to ask in comment section, baaki milte hai kabhi...du
     string clearStars(string s) {
         int n=s.size();
         string ans="";
-        
+
+        // ascii code to suna hi hoga tumne
        priority_queue<pair<int, int>, vector<pair<int, int>>, Compare> pq;
         
         vector<int> vis(n,0);
@@ -108,6 +109,7 @@ Agr doubt hai to feel free to ask in comment section, baaki milte hai kabhi...du
                 // ye star ko visit kar rha, vo to answer ka hissa hoga hi nhi
                 vis[i]=1;
             }else{
+                // ascii ka kamal
                 pq.push({s[i],i});
             }
         }
