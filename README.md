@@ -36,7 +36,20 @@ Every problem has a creative solution
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/Abhirai1/Leetcode/tree/master/0876-hand-of-straights) |
+| [3436-find-subarray-with-bitwise-and-closest-to-k](https://github.com/Abhirai1/Leetcode/tree/master/3436-find-subarray-with-bitwise-and-closest-to-k) |
 # Sorting
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/Abhirai1/Leetcode/tree/master/0876-hand-of-straights) |
+# Binary Search
+|  |
+| ------- |
+| [3436-find-subarray-with-bitwise-and-closest-to-k](https://github.com/Abhirai1/Leetcode/tree/master/3436-find-subarray-with-bitwise-and-closest-to-k) |
+# Bit Manipulation
+|  |
+| ------- |
+| [3436-find-subarray-with-bitwise-and-closest-to-k](https://github.com/Abhirai1/Leetcode/tree/master/3436-find-subarray-with-bitwise-and-closest-to-k) |
+# Segment Tree
+|  |
+| ------- |
+| [3436-find-subarray-with-bitwise-and-closest-to-k](https://github.com/Abhirai1/Leetcode/tree/master/3436-find-subarray-with-bitwise-and-closest-to-k) |
