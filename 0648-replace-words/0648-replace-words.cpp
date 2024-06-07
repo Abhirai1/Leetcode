@@ -9,14 +9,16 @@ public:
         stringstream s(sentence); 
 
         string temp="";
-
+// multiple answer possible ho skte the
         while(s >> temp){
+            // n
             int len=INT_MAX; 
             string kill="";
 
             int n=temp.size();
 
             for(int i=0;i<n;i++){
+                // m
                 kill.push_back(temp[i]);
                 if(ump.find(kill)!=ump.end()) break;
             }
