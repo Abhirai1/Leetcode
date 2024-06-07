@@ -12,6 +12,7 @@ Every problem has a creative solution
 | ------- |
 | [0344-reverse-string](https://github.com/Abhirai1/Leetcode/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/Abhirai1/Leetcode/tree/master/0409-longest-palindrome) |
+| [0648-replace-words](https://github.com/Abhirai1/Leetcode/tree/master/0648-replace-words) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Abhirai1/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Linked List
 |  |
@@ -31,10 +32,12 @@ Every problem has a creative solution
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Abhirai1/Leetcode/tree/master/0409-longest-palindrome) |
+| [0648-replace-words](https://github.com/Abhirai1/Leetcode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/Abhirai1/Leetcode/tree/master/0876-hand-of-straights) |
 # Array
 |  |
 | ------- |
+| [0648-replace-words](https://github.com/Abhirai1/Leetcode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/Abhirai1/Leetcode/tree/master/0876-hand-of-straights) |
 | [3436-find-subarray-with-bitwise-and-closest-to-k](https://github.com/Abhirai1/Leetcode/tree/master/3436-find-subarray-with-bitwise-and-closest-to-k) |
 # Sorting
@@ -53,3 +56,7 @@ Every problem has a creative solution
 |  |
 | ------- |
 | [3436-find-subarray-with-bitwise-and-closest-to-k](https://github.com/Abhirai1/Leetcode/tree/master/3436-find-subarray-with-bitwise-and-closest-to-k) |
+# Trie
+|  |
+| ------- |
+| [0648-replace-words](https://github.com/Abhirai1/Leetcode/tree/master/0648-replace-words) |
