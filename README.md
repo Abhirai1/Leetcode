@@ -31,6 +31,7 @@ Every problem has a creative solution
 # Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Abhirai1/Leetcode/tree/master/0169-majority-element) |
 | [0409-longest-palindrome](https://github.com/Abhirai1/Leetcode/tree/master/0409-longest-palindrome) |
 | [0523-continuous-subarray-sum](https://github.com/Abhirai1/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/Abhirai1/Leetcode/tree/master/0648-replace-words) |
@@ -39,6 +40,7 @@ Every problem has a creative solution
 # Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Abhirai1/Leetcode/tree/master/0169-majority-element) |
 | [0523-continuous-subarray-sum](https://github.com/Abhirai1/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/Abhirai1/Leetcode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/Abhirai1/Leetcode/tree/master/0876-hand-of-straights) |
@@ -47,6 +49,7 @@ Every problem has a creative solution
 # Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Abhirai1/Leetcode/tree/master/0169-majority-element) |
 | [0876-hand-of-straights](https://github.com/Abhirai1/Leetcode/tree/master/0876-hand-of-straights) |
 # Binary Search
 |  |
@@ -73,3 +76,11 @@ Every problem has a creative solution
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Abhirai1/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Abhirai1/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Abhirai1/Leetcode/tree/master/0169-majority-element) |
+# Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Abhirai1/Leetcode/tree/master/0169-majority-element) |
