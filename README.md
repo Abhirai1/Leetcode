@@ -35,12 +35,14 @@ Every problem has a creative solution
 | [0523-continuous-subarray-sum](https://github.com/Abhirai1/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/Abhirai1/Leetcode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/Abhirai1/Leetcode/tree/master/0876-hand-of-straights) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Abhirai1/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 # Array
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Abhirai1/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/Abhirai1/Leetcode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/Abhirai1/Leetcode/tree/master/0876-hand-of-straights) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Abhirai1/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [3436-find-subarray-with-bitwise-and-closest-to-k](https://github.com/Abhirai1/Leetcode/tree/master/3436-find-subarray-with-bitwise-and-closest-to-k) |
 # Sorting
 |  |
@@ -70,3 +72,4 @@ Every problem has a creative solution
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Abhirai1/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Abhirai1/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
