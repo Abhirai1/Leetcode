@@ -37,6 +37,7 @@ Every problem has a creative solution
 | [0648-replace-words](https://github.com/Abhirai1/Leetcode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/Abhirai1/Leetcode/tree/master/0876-hand-of-straights) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Abhirai1/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1217-relative-sort-array](https://github.com/Abhirai1/Leetcode/tree/master/1217-relative-sort-array) |
 # Array
 |  |
 | ------- |
@@ -46,6 +47,7 @@ Every problem has a creative solution
 | [0876-hand-of-straights](https://github.com/Abhirai1/Leetcode/tree/master/0876-hand-of-straights) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Abhirai1/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1137-height-checker](https://github.com/Abhirai1/Leetcode/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/Abhirai1/Leetcode/tree/master/1217-relative-sort-array) |
 | [3436-find-subarray-with-bitwise-and-closest-to-k](https://github.com/Abhirai1/Leetcode/tree/master/3436-find-subarray-with-bitwise-and-closest-to-k) |
 # Sorting
 |  |
@@ -53,6 +55,7 @@ Every problem has a creative solution
 | [0169-majority-element](https://github.com/Abhirai1/Leetcode/tree/master/0169-majority-element) |
 | [0876-hand-of-straights](https://github.com/Abhirai1/Leetcode/tree/master/0876-hand-of-straights) |
 | [1137-height-checker](https://github.com/Abhirai1/Leetcode/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/Abhirai1/Leetcode/tree/master/1217-relative-sort-array) |
 # Binary Search
 |  |
 | ------- |
@@ -90,3 +93,4 @@ Every problem has a creative solution
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/Abhirai1/Leetcode/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/Abhirai1/Leetcode/tree/master/1217-relative-sort-array) |
