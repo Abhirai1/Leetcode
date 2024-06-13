@@ -81,6 +81,7 @@ Every problem has a creative solution
 # Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Abhirai1/Leetcode/tree/master/0009-palindrome-number) |
 | [0523-continuous-subarray-sum](https://github.com/Abhirai1/Leetcode/tree/master/0523-continuous-subarray-sum) |
 # Prefix Sum
 |  |
