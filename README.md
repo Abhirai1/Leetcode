@@ -28,6 +28,7 @@ Every problem has a creative solution
 | ------- |
 | [0409-longest-palindrome](https://github.com/Abhirai1/Leetcode/tree/master/0409-longest-palindrome) |
 | [0876-hand-of-straights](https://github.com/Abhirai1/Leetcode/tree/master/0876-hand-of-straights) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Abhirai1/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Abhirai1/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Hash Table
 |  |
@@ -50,6 +51,7 @@ Every problem has a creative solution
 | [1016-subarray-sums-divisible-by-k](https://github.com/Abhirai1/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1137-height-checker](https://github.com/Abhirai1/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Abhirai1/Leetcode/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Abhirai1/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3436-find-subarray-with-bitwise-and-closest-to-k](https://github.com/Abhirai1/Leetcode/tree/master/3436-find-subarray-with-bitwise-and-closest-to-k) |
 # Sorting
 |  |
@@ -59,6 +61,7 @@ Every problem has a creative solution
 | [0876-hand-of-straights](https://github.com/Abhirai1/Leetcode/tree/master/0876-hand-of-straights) |
 | [1137-height-checker](https://github.com/Abhirai1/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Abhirai1/Leetcode/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Abhirai1/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Binary Search
 |  |
 | ------- |
