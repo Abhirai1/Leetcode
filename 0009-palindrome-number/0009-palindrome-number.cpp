@@ -1,10 +1,24 @@
 class Solution {
 public:
     bool isPalindrome(int x) {
-        string n=to_string(x);
-       for(int i=0,j=n.size()-1;j>=i;j--,i++){
-           if(n[i]!=n[j]) return false;
-       } 
-    return true;
+        if(x<0){
+            return false;
+        }
+        long long int ans=0;
+        int n=x;
+        while(n>0){
+        int digit=n%10;
+        // if(INT_MAX/10<ans){
+        //     return false;
+        // }
+        ans=ans*10+digit;
+        n=n/10;
+        }
+        
+        if(ans==x){
+        return true;
+        }
+        return false;
     }
+   
 };
