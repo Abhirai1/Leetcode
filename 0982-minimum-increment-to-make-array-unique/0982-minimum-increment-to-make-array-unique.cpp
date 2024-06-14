@@ -1,6 +1,8 @@
 class Solution {
 public:
     int minIncrementForUnique(vector<int>& nums) {
+        ios::sync_with_stdio(false);
+        cin.tie(nullptr);
         int ans=0; int n=nums.size(); 
         sort(nums.begin(),nums.end());
         // for(auto it:nums) cout<<it<<" ";
