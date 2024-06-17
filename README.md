@@ -11,6 +11,7 @@ Every problem has a creative solution
 # String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Abhirai1/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0344-reverse-string](https://github.com/Abhirai1/Leetcode/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/Abhirai1/Leetcode/tree/master/0409-longest-palindrome) |
 | [0648-replace-words](https://github.com/Abhirai1/Leetcode/tree/master/0648-replace-words) |
@@ -116,6 +117,7 @@ Every problem has a creative solution
 # Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Abhirai1/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0322-coin-change](https://github.com/Abhirai1/Leetcode/tree/master/0322-coin-change) |
 # Breadth-First Search
 |  |
