@@ -1,19 +1,20 @@
 class Solution {
 public:
-    int numDistinct(string s, string t) {
-        int mod = pow(10,9) + 7;
-        int n = s.size(), m = t.size();
-        vector<vector<int>> dp(n + 1, vector<int>(m + 1, 0));
-        for(int i = 0 ; i <= n; i++) dp[i][0] = 1;
-        for(int i = 1 ; i <= m; i++) dp[0][i] = 0;
-        for (int i = 1; i <= n; i++) {
-            for (int j = 1; j <= m; j++) {
-                if (s[i - 1] == t[j - 1])
-                    dp[i][j] = (dp[i - 1][j - 1] + dp[i - 1][j]) % mod; 
-                else
-                    dp[i][j] = dp[i - 1][j];
-            }
+    int mod = pow(10,9) + 7;
+    int helper(string s, string t, int i, int j, vector<vector<int>> &dp){
+        if(j == t.size()) return dp[i][j] = 1;
+        if(i == s.size()) return dp[i][j] = 0;
+        if(dp[i][j] != -1) return dp[i][j];
+        if(s[i] != t[j]){
+            return dp[i][j] = helper(s,t,i+1,j,dp);
         }
-        return dp[n][m];
+        int pick = helper(s,t,i + 1, j + 1,dp);
+        int not_pick = helper(s,t,i + 1, j,dp);
+        return dp[i][j] = (pick + not_pick) % mod;
+    }
+    int numDistinct(string s, string t) {
+        int n = s.size(), m = t.size();
+        vector<vector<int>> dp(n + 1, vector<int>(m + 1, -1));
+        return helper(s,t,0,0,dp);
     }
 };
