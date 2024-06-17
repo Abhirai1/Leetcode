@@ -47,6 +47,7 @@ Every problem has a creative solution
 | ------- |
 | [0075-sort-colors](https://github.com/Abhirai1/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Abhirai1/Leetcode/tree/master/0169-majority-element) |
+| [0322-coin-change](https://github.com/Abhirai1/Leetcode/tree/master/0322-coin-change) |
 | [0502-ipo](https://github.com/Abhirai1/Leetcode/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/Abhirai1/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/Abhirai1/Leetcode/tree/master/0648-replace-words) |
@@ -112,3 +113,11 @@ Every problem has a creative solution
 |  |
 | ------- |
 | [0502-ipo](https://github.com/Abhirai1/Leetcode/tree/master/0502-ipo) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Abhirai1/Leetcode/tree/master/0322-coin-change) |
+# Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Abhirai1/Leetcode/tree/master/0322-coin-change) |
