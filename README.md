@@ -46,6 +46,7 @@ Every problem has a creative solution
 # Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Abhirai1/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/Abhirai1/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Abhirai1/Leetcode/tree/master/0169-majority-element) |
 | [0322-coin-change](https://github.com/Abhirai1/Leetcode/tree/master/0322-coin-change) |
@@ -119,9 +120,14 @@ Every problem has a creative solution
 # Dynamic Programming
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Abhirai1/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0115-distinct-subsequences](https://github.com/Abhirai1/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0322-coin-change](https://github.com/Abhirai1/Leetcode/tree/master/0322-coin-change) |
 # Breadth-First Search
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Abhirai1/Leetcode/tree/master/0322-coin-change) |
+# Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/Abhirai1/Leetcode/tree/master/0063-unique-paths-ii) |
