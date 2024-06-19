@@ -57,6 +57,7 @@ Every problem has a creative solution
 | [1016-subarray-sums-divisible-by-k](https://github.com/Abhirai1/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1137-height-checker](https://github.com/Abhirai1/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Abhirai1/Leetcode/tree/master/1217-relative-sort-array) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Abhirai1/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Abhirai1/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3436-find-subarray-with-bitwise-and-closest-to-k](https://github.com/Abhirai1/Leetcode/tree/master/3436-find-subarray-with-bitwise-and-closest-to-k) |
 # Sorting
@@ -73,6 +74,7 @@ Every problem has a creative solution
 # Binary Search
 |  |
 | ------- |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Abhirai1/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [3436-find-subarray-with-bitwise-and-closest-to-k](https://github.com/Abhirai1/Leetcode/tree/master/3436-find-subarray-with-bitwise-and-closest-to-k) |
 # Bit Manipulation
 |  |
