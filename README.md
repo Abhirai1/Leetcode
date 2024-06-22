@@ -43,6 +43,7 @@ Every problem has a creative solution
 | [0876-hand-of-straights](https://github.com/Abhirai1/Leetcode/tree/master/0876-hand-of-straights) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Abhirai1/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1217-relative-sort-array](https://github.com/Abhirai1/Leetcode/tree/master/1217-relative-sort-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Abhirai1/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 # Array
 |  |
 | ------- |
@@ -58,6 +59,7 @@ Every problem has a creative solution
 | [1016-subarray-sums-divisible-by-k](https://github.com/Abhirai1/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1137-height-checker](https://github.com/Abhirai1/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Abhirai1/Leetcode/tree/master/1217-relative-sort-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Abhirai1/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Abhirai1/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Abhirai1/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3436-find-subarray-with-bitwise-and-closest-to-k](https://github.com/Abhirai1/Leetcode/tree/master/3436-find-subarray-with-bitwise-and-closest-to-k) |
@@ -95,6 +97,7 @@ Every problem has a creative solution
 | ------- |
 | [0009-palindrome-number](https://github.com/Abhirai1/Leetcode/tree/master/0009-palindrome-number) |
 | [0523-continuous-subarray-sum](https://github.com/Abhirai1/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Abhirai1/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 # Prefix Sum
 |  |
 | ------- |
@@ -137,3 +140,7 @@ Every problem has a creative solution
 |  |
 | ------- |
 | [1488-sort-integers-by-the-power-value](https://github.com/Abhirai1/Leetcode/tree/master/1488-sort-integers-by-the-power-value) |
+# Sliding Window
+|  |
+| ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/Abhirai1/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
