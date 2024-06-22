@@ -71,6 +71,7 @@ Every problem has a creative solution
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Abhirai1/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/Abhirai1/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Abhirai1/Leetcode/tree/master/1217-relative-sort-array) |
+| [1488-sort-integers-by-the-power-value](https://github.com/Abhirai1/Leetcode/tree/master/1488-sort-integers-by-the-power-value) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Abhirai1/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Binary Search
 |  |
@@ -123,6 +124,7 @@ Every problem has a creative solution
 | [0063-unique-paths-ii](https://github.com/Abhirai1/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0115-distinct-subsequences](https://github.com/Abhirai1/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0322-coin-change](https://github.com/Abhirai1/Leetcode/tree/master/0322-coin-change) |
+| [1488-sort-integers-by-the-power-value](https://github.com/Abhirai1/Leetcode/tree/master/1488-sort-integers-by-the-power-value) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -131,3 +133,7 @@ Every problem has a creative solution
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Abhirai1/Leetcode/tree/master/0063-unique-paths-ii) |
+# Memoization
+|  |
+| ------- |
+| [1488-sort-integers-by-the-power-value](https://github.com/Abhirai1/Leetcode/tree/master/1488-sort-integers-by-the-power-value) |
