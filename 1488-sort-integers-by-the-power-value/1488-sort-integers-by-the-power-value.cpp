@@ -15,7 +15,7 @@ public:
         // Use a set of tuples to enforce secondary sorting by the integer value
         std::set<std::pair<int, int>> s;
         
-        for (int i = lo; i <= hi; i++) {
+        for (int i = hi; i >= lo; i--) {
             int val = power(i, dp);
             s.insert({val, i});
         }
