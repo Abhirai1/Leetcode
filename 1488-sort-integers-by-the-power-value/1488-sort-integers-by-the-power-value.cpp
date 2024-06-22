@@ -1,16 +1,17 @@
 class Solution {
 public:
-        int power(int n, unordered_map<int,int> &dp){
+   
+    int power(int n){
         if(n == 1) return 0;
-        if(dp.find(n) != dp.end()) return dp[n];
-        if(n % 2 == 0) return dp[n] = 1 + power(n / 2, dp);
-        return dp[n] = 1 + power(3 * n + 1, dp);
+        
+        if(n % 2 == 0) return  1 + power(n / 2);
+        return 1 + power(3 * n + 1);
     }
     int getKth(int lo, int hi, int k) {
-        unordered_map<int,int> dp;
+        
         multimap<int,int> m;        
         for(int i = lo; i <= hi; i++){
-            int val = power(i,dp);
+            int val = power(i);
             m.insert({val,i});
         }
         for(auto it : m){
