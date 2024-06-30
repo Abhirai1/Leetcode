@@ -2,9 +2,9 @@ import java.util.TreeSet;
 
 class Solution {
     public boolean containsNearbyAlmostDuplicate(int[] nums, int indexDiff, int valueDiff) {
-        if (nums == null || nums.length < 2 || indexDiff < 1 || valueDiff < 0) {
-            return false;
-        }
+        // if (nums == null || nums.length < 2 || indexDiff < 1 || valueDiff < 0) {
+        //     return false;
+        // }
 
         TreeSet<Long> set = new TreeSet<>();
         for (int i = 0; i < nums.length; i++) {
