@@ -144,3 +144,26 @@ Every problem has a creative solution
 |  |
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/Abhirai1/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/Abhirai1/Leetcode/tree/master/0220-contains-duplicate-iii) |
+## Sliding Window
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/Abhirai1/Leetcode/tree/master/0220-contains-duplicate-iii) |
+## Sorting
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/Abhirai1/Leetcode/tree/master/0220-contains-duplicate-iii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/Abhirai1/Leetcode/tree/master/0220-contains-duplicate-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/Abhirai1/Leetcode/tree/master/0220-contains-duplicate-iii) |
+<!---LeetCode Topics End-->
