@@ -150,6 +150,7 @@ Every problem has a creative solution
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Abhirai1/Leetcode/tree/master/0220-contains-duplicate-iii) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Abhirai1/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -166,4 +167,8 @@ Every problem has a creative solution
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Abhirai1/Leetcode/tree/master/0220-contains-duplicate-iii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Abhirai1/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 <!---LeetCode Topics End-->
