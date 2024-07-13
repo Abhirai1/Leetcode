@@ -1,12 +1,10 @@
 class Solution {
 public:
     vector<int> survivedRobotsHealths(vector<int>& positions, vector<int>& healths, string directions) {
-        vector<int> ans; 
-
         int n=positions.size();
 
+        vector<int> ans; 
         stack<pair<int,int>> st; 
-
         vector<pair<int,int>> ip; 
 
         for(int i=0;i<n;i++) ip.push_back({positions[i],i});
@@ -17,9 +15,7 @@ public:
             int pos=it.first; 
             int ind=it.second; 
             char dir=directions[ind]; 
-            // int hel=healths[ind]; 
-
-            // khalipan + dir same
+           
             if(st.size()==0 || dir=='R'){
                 st.push({pos,ind});
             }
