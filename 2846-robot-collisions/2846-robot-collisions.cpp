@@ -20,7 +20,7 @@ public:
             // int hel=healths[ind]; 
 
             // khalipan + dir same
-            if(st.size()==0 || dir==directions[st.top().second] || dir=='R'){
+            if(st.size()==0 || dir=='R'){
                 st.push({pos,ind});
             }
             else{
