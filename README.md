@@ -150,6 +150,7 @@ Every problem has a creative solution
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Abhirai1/Leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0334-increasing-triplet-subsequence](https://github.com/Abhirai1/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Abhirai1/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2846-robot-collisions](https://github.com/Abhirai1/Leetcode/tree/master/2846-robot-collisions) |
 | [3483-alternating-groups-ii](https://github.com/Abhirai1/Leetcode/tree/master/3483-alternating-groups-ii) |
@@ -193,4 +194,8 @@ Every problem has a creative solution
 |  |
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/Abhirai1/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+## Greedy
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Abhirai1/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
