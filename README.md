@@ -194,6 +194,7 @@ Every problem has a creative solution
 |  |
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/Abhirai1/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Abhirai1/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Math
 |  |
 | ------- |
@@ -209,6 +210,7 @@ Every problem has a creative solution
 |  |
 | ------- |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Abhirai1/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Abhirai1/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Abhirai1/Leetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Bit Manipulation
 |  |
@@ -222,4 +224,8 @@ Every problem has a creative solution
 |  |
 | ------- |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Abhirai1/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
+## Counting
+|  |
+| ------- |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Abhirai1/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 <!---LeetCode Topics End-->
