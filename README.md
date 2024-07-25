@@ -198,10 +198,12 @@ Every problem has a creative solution
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Abhirai1/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Abhirai1/Leetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## String
 |  |
 | ------- |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Abhirai1/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+| [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Abhirai1/Leetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Bit Manipulation
 |  |
 | ------- |
