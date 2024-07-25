@@ -189,6 +189,7 @@ Every problem has a creative solution
 |  |
 | ------- |
 | [2846-robot-collisions](https://github.com/Abhirai1/Leetcode/tree/master/2846-robot-collisions) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/Abhirai1/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -197,6 +198,7 @@ Every problem has a creative solution
 |  |
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/Abhirai1/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/Abhirai1/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Greedy
 |  |
 | ------- |
@@ -216,4 +218,8 @@ Every problem has a creative solution
 |  |
 | ------- |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Abhirai1/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+## Game Theory
+|  |
+| ------- |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/Abhirai1/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 <!---LeetCode Topics End-->
