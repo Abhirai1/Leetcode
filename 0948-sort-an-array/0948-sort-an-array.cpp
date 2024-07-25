@@ -84,9 +84,11 @@ void mergeSort(vector<int> &nums , int s , int e){
         
         // sortArra(nums);
         // return nums;
-        int s=0; 
-        int e=nums.size()-1; 
-        mergeSort(nums,s,e); 
+        // int s=0; 
+        // int e=nums.size()-1; 
+        // mergeSort(nums,s,e); 
+        // return nums;
+        sort(nums.begin(),nums.end());
         return nums;
     }
 };
