@@ -155,6 +155,7 @@ Every problem has a creative solution
 | [2846-robot-collisions](https://github.com/Abhirai1/Leetcode/tree/master/2846-robot-collisions) |
 | [3483-alternating-groups-ii](https://github.com/Abhirai1/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Abhirai1/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3494-minimum-cost-for-cutting-cake-i](https://github.com/Abhirai1/Leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -166,6 +167,7 @@ Every problem has a creative solution
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Abhirai1/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [2846-robot-collisions](https://github.com/Abhirai1/Leetcode/tree/master/2846-robot-collisions) |
+| [3494-minimum-cost-for-cutting-cake-i](https://github.com/Abhirai1/Leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -178,6 +180,7 @@ Every problem has a creative solution
 |  |
 | ------- |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Abhirai1/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3494-minimum-cost-for-cutting-cake-i](https://github.com/Abhirai1/Leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 ## Stack
 |  |
 | ------- |
@@ -199,6 +202,7 @@ Every problem has a creative solution
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Abhirai1/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Abhirai1/Leetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
+| [3494-minimum-cost-for-cutting-cake-i](https://github.com/Abhirai1/Leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 ## String
 |  |
 | ------- |
