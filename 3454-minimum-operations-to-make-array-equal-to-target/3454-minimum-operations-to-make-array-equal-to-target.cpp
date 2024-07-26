@@ -3,14 +3,10 @@ public:
     #define lli long long int
     long long minimumOperations(vector<int>& nums, vector<int>& target) {
         lli n=nums.size();
-        vector<lli> diff(n,0); 
-
-        for(lli i=0;i<n;i++) diff[i]=target[i]-nums[i];
-
         lli curr=0,prev=0; 
         lli ans=0;
         for(lli i=0;i<n;i++){
-            curr=diff[i]; 
+            curr=target[i]-nums[i]; 
 
             // sign change
             if((curr<0 && prev>0) || (curr>0 && prev<0))ans+=abs(curr);
