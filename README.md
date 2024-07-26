@@ -154,6 +154,7 @@ Every problem has a creative solution
 | [0948-sort-an-array](https://github.com/Abhirai1/Leetcode/tree/master/0948-sort-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Abhirai1/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2846-robot-collisions](https://github.com/Abhirai1/Leetcode/tree/master/2846-robot-collisions) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/Abhirai1/Leetcode/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3483-alternating-groups-ii](https://github.com/Abhirai1/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Abhirai1/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/Abhirai1/Leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
@@ -183,12 +184,14 @@ Every problem has a creative solution
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Abhirai1/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/Abhirai1/Leetcode/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Abhirai1/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/Abhirai1/Leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 ## Stack
 |  |
 | ------- |
 | [2846-robot-collisions](https://github.com/Abhirai1/Leetcode/tree/master/2846-robot-collisions) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/Abhirai1/Leetcode/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Simulation
 |  |
 | ------- |
@@ -208,6 +211,7 @@ Every problem has a creative solution
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Abhirai1/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/Abhirai1/Leetcode/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Abhirai1/Leetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/Abhirai1/Leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 ## String
@@ -260,4 +264,8 @@ Every problem has a creative solution
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Abhirai1/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/Abhirai1/Leetcode/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 <!---LeetCode Topics End-->
