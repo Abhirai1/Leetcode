@@ -6,9 +6,9 @@ public:
 
         if(t[i][j]!=-1) return t[i][j];
 
-        if(s[i]==s[j] && isPalindrome(s,i+1,j-1)) return true;
+        if(s[i]==s[j] && isPalindrome(s,i+1,j-1)) return t[i][j] = true;
 
-        return false;
+        return t[i][j] = false;
     }
     string longestPalindrome(string s) {
 
