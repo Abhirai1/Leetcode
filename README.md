@@ -184,6 +184,7 @@ Every problem has a creative solution
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Abhirai1/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Abhirai1/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/Abhirai1/Leetcode/tree/master/1511-count-number-of-teams) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/Abhirai1/Leetcode/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
@@ -219,6 +220,7 @@ Every problem has a creative solution
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Abhirai1/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Abhirai1/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Abhirai1/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Abhirai1/Leetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
@@ -274,4 +276,8 @@ Every problem has a creative solution
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/Abhirai1/Leetcode/tree/master/1511-count-number-of-teams) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Abhirai1/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
