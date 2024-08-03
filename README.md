@@ -149,6 +149,7 @@ Every problem has a creative solution
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Abhirai1/Leetcode/tree/master/0031-next-permutation) |
 | [0220-contains-duplicate-iii](https://github.com/Abhirai1/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Abhirai1/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0948-sort-an-array](https://github.com/Abhirai1/Leetcode/tree/master/0948-sort-an-array) |
@@ -280,4 +281,5 @@ Every problem has a creative solution
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Abhirai1/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0031-next-permutation](https://github.com/Abhirai1/Leetcode/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
