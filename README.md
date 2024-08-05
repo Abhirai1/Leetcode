@@ -289,4 +289,8 @@ Every problem has a creative solution
 |  |
 | ------- |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Abhirai1/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/Abhirai1/Leetcode/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
