@@ -161,6 +161,7 @@ Every problem has a creative solution
 | [3483-alternating-groups-ii](https://github.com/Abhirai1/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Abhirai1/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/Abhirai1/Leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
+| [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/Abhirai1/Leetcode/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -184,6 +185,7 @@ Every problem has a creative solution
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Abhirai1/Leetcode/tree/master/0220-contains-duplicate-iii) |
+| [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/Abhirai1/Leetcode/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -220,6 +222,7 @@ Every problem has a creative solution
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/Abhirai1/Leetcode/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Abhirai1/Leetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/Abhirai1/Leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
+| [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/Abhirai1/Leetcode/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 ## String
 |  |
 | ------- |
@@ -267,6 +270,7 @@ Every problem has a creative solution
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Abhirai1/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/Abhirai1/Leetcode/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 ## Shortest Path
 |  |
 | ------- |
