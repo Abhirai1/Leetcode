@@ -1,7 +1,7 @@
 class Solution {
 public:
 #define lli long long int
-    lli t[100005];
+    lli t[30001];
      int binarySearch(vector<vector<int>>& rides,int val){
         int s=0,e=rides.size()-1;
         int ans=rides.size();
