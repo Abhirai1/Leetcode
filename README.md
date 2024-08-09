@@ -156,6 +156,7 @@ Every problem has a creative solution
 | [1370-count-number-of-nice-subarrays](https://github.com/Abhirai1/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1511-count-number-of-teams](https://github.com/Abhirai1/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Abhirai1/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2118-maximum-earnings-from-taxi](https://github.com/Abhirai1/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2846-robot-collisions](https://github.com/Abhirai1/Leetcode/tree/master/2846-robot-collisions) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/Abhirai1/Leetcode/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3483-alternating-groups-ii](https://github.com/Abhirai1/Leetcode/tree/master/3483-alternating-groups-ii) |
@@ -174,6 +175,7 @@ Every problem has a creative solution
 | [0220-contains-duplicate-iii](https://github.com/Abhirai1/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0948-sort-an-array](https://github.com/Abhirai1/Leetcode/tree/master/0948-sort-an-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Abhirai1/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2118-maximum-earnings-from-taxi](https://github.com/Abhirai1/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2846-robot-collisions](https://github.com/Abhirai1/Leetcode/tree/master/2846-robot-collisions) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/Abhirai1/Leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 ## Bucket Sort
@@ -192,6 +194,7 @@ Every problem has a creative solution
 | [0005-longest-palindromic-substring](https://github.com/Abhirai1/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Abhirai1/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/Abhirai1/Leetcode/tree/master/1511-count-number-of-teams) |
+| [2118-maximum-earnings-from-taxi](https://github.com/Abhirai1/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/Abhirai1/Leetcode/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Abhirai1/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/Abhirai1/Leetcode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
@@ -209,6 +212,7 @@ Every problem has a creative solution
 |  |
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/Abhirai1/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [2118-maximum-earnings-from-taxi](https://github.com/Abhirai1/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Abhirai1/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Math
 |  |
@@ -293,6 +297,7 @@ Every problem has a creative solution
 |  |
 | ------- |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Abhirai1/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2118-maximum-earnings-from-taxi](https://github.com/Abhirai1/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
 ## Database
 |  |
 | ------- |
