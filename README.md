@@ -156,6 +156,7 @@ Every problem has a creative solution
 | [1370-count-number-of-nice-subarrays](https://github.com/Abhirai1/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1511-count-number-of-teams](https://github.com/Abhirai1/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Abhirai1/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Abhirai1/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2118-maximum-earnings-from-taxi](https://github.com/Abhirai1/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2846-robot-collisions](https://github.com/Abhirai1/Leetcode/tree/master/2846-robot-collisions) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/Abhirai1/Leetcode/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
@@ -206,6 +207,7 @@ Every problem has a creative solution
 ## Simulation
 |  |
 | ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Abhirai1/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2846-robot-collisions](https://github.com/Abhirai1/Leetcode/tree/master/2846-robot-collisions) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Abhirai1/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Hash Table
@@ -297,6 +299,7 @@ Every problem has a creative solution
 |  |
 | ------- |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Abhirai1/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Abhirai1/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2118-maximum-earnings-from-taxi](https://github.com/Abhirai1/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
 ## Database
 |  |
@@ -306,4 +309,8 @@ Every problem has a creative solution
 | [1153-product-sales-analysis-i](https://github.com/Abhirai1/Leetcode/tree/master/1153-product-sales-analysis-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Abhirai1/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Abhirai1/Leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+## Prefix Sum
+|  |
+| ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Abhirai1/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 <!---LeetCode Topics End-->
